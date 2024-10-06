@@ -1,0 +1,10 @@
+[33m247b7d9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m266b18d[m HEAD@{1}: reset: moving to HEAD~1
+[33mb6a0198[m HEAD@{2}: commit: Added the ability to add post links to an external new_post_links.txt
+[33m266b18d[m HEAD@{3}: commit (amend): Added the ability to add post links to an external new_post_links.txt
+[33m7b2204a[m HEAD@{4}: commit: Added the ability to add post links to an external new_post_links.txt
+[33m247b7d9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{5}: commit: Added the ability to scroll to the bottom of the course thread, and get all the hrefs to each posting
+[33m3217f9a[m HEAD@{6}: commit: EdStem + CalNet Authentication
+[33m243321d[m HEAD@{7}: commit: Initial Push!
+[33mce26583[m HEAD@{8}: commit: Initial Push!
+[33m2f46e67[m HEAD@{9}: clone: from https://github.com/daniel-endraws/edscrape.git
